@@ -1,2 +1,2 @@
-# codility-soltions
-"https://app.codility.com/programmers/" solution
+# codility-solutions
+"https://app.codility.com/programmers/" solutions
