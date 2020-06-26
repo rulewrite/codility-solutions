@@ -1,0 +1,13 @@
+{
+    "saveAndRun": {
+        "commands": [
+            {
+                "match": ".js",
+                "cmd": "echo $'\\e#8\\e[1B\\e[J' \n node ${file}",
+                "useShortcut": false,
+                "silent": false
+            }
+        ]
+    },
+    "prettier.tabWidth": 4
+}
